@@ -1,5 +1,7 @@
 # be_aware_apk
 
+![icon_featured_graphic](https://github.com/DmytroHryniuk/be_aware_apk/blob/master/icon_featured_graphic.png)
+
 Today it is crucial to be aware of disease rate in the world. Accurate knowledge about situation in particular countries and recovered and fatal cases can be lifesaving.
 This application keeps you informed and up-to-date about current situation. The best way to know about diseases is to have everything around.
 * The “World Info” tab allows to observe situation status with a real-time dashboard.
@@ -18,7 +20,7 @@ This application was developed in order to keep society informed and up-to-date 
 
 <h4>Screens:</h4>
 
-![icon_featured_graphic](https://github.com/DmytroHryniuk/be_aware_apk/blob/master/icon_featured_graphic.png)
+
 
 ![1main_new](https://github.com/DmytroHryniuk/be_aware_apk/blob/master/1main_new.png)
 
