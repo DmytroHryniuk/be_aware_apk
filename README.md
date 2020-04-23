@@ -9,6 +9,7 @@
 3. [Features](#Features)
 4. [Important note](#important-note)
 5. [Screens](#Screens)
+6. [Privacy policy](#privacy-policy)
 ****
 #### Summary
 Today it is crucial to be aware of disease rate in the world. Accurate knowledge about situation in particular countries and recovered and fatal cases can be lifesaving.
@@ -41,3 +42,7 @@ This application was developed in order to keep society informed and up-to-date 
 ![1cards2_new](/screens/1cards2_new.png)
 
 ![1cards3_new](/screens/1cards3_new.png)
+
+****
+#### Privacy policy:
+The privacy policy link: https://be-aware-prj.web.app/
