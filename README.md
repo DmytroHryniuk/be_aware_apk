@@ -3,8 +3,13 @@
 ![icon_featured_graphic](https://github.com/DmytroHryniuk/be_aware_apk/blob/master/icon_featured_graphic.png)
 
 ****
-#### Rules:
+#### Table of contents:
 1. [Summary](#Summary)
+2. [Remember!](#Remember!)
+3. [Features:](#Features:)
+4. [Important note:](#important:)
+5. [Screens:](#Screens:)
+
 ****
 
 #### Summary
@@ -19,6 +24,7 @@ This application keeps you informed and up-to-date about current situation. The 
 <h4>Features:</h4>
 You may experience poor connection problem. If you experience problems with updating information, please check your connection and restart the application.
 <hr>
+<a name="important"></a>
 <h4>Important note:</h4>
 This application was developed in order to keep society informed and up-to-date about situation in the world, not for purposes of gain.<br/> This means that application does not contain any advertisements or in-app purchases.
 
