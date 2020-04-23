@@ -16,6 +16,8 @@ This application was developed in order to keep society informed and up-to-date 
 
 #### *The numerical data is provided for an example ONLY. The figures shown may be inaccurate.
 
-If you want to embed images, this is how you do it:
+<h4>Screens:</h4>
+![icon_featured_graphic](https://github.com/DmytroHryniuk/be_aware_apk/blob/master/icon_featured_graphic.png)
+![1main_new](https://github.com/DmytroHryniuk/be_aware_apk/blob/master/1main_new.png)
 
-![Image of Yaktocat](https://github.com/DmytroHryniuk/be_aware_apk/blob/master/1main_new.png)
+
