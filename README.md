@@ -15,3 +15,7 @@ You may experience poor connection problem. If you experience problems with upda
 This application was developed in order to keep society informed and up-to-date about situation in the world, not for purposes of gain.<br/> This means that application does not contain any advertisements or in-app purchases.
 
 #### *The numerical data is provided for an example ONLY. The figures shown may be inaccurate.
+
+If you want to embed images, this is how you do it:
+
+![Image of Yaktocat](https://github.com/DmytroHryniuk/be_aware_apk/blob/master/1main_new.png)
