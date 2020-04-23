@@ -30,9 +30,14 @@ This application was developed in order to keep society informed and up-to-date 
 
 <h4>Screens:</h4>
 
-
-
 ![1main_new](https://github.com/DmytroHryniuk/be_aware_apk/blob/master/1main_new.png)
 
+![1chart1_new](https://github.com/DmytroHryniuk/be_aware_apk/blob/master/1chart1_new.png)
 
+![1chart2_new](https://github.com/DmytroHryniuk/be_aware_apk/blob/master/1chart2_new.png)
 
+![1cards1_new](https://github.com/DmytroHryniuk/be_aware_apk/blob/master/1cards1_new.png)
+
+![1cards2_new](https://github.com/DmytroHryniuk/be_aware_apk/blob/master/1cards2_new.png)
+
+![1cards3_new](https://github.com/DmytroHryniuk/be_aware_apk/blob/master/1cards3_new.png)
