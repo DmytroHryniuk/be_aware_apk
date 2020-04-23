@@ -17,7 +17,7 @@ This application keeps you informed and up-to-date about current situation. The 
 * The “World Info” tab allows to observe situation status with a real-time dashboard.
 * The “Chart” tab shows visual data for 200+ countries, highlighting total cases, recoveries and fatal cases. The chart is flexible and scrollable. Zoom in and out for more detailed information.
 * The “Local” tab shows actual and accurate statistics by countries. Easy-to-understand cards design helps quickly find information you need. Use flexible search to find what you seek.
-<br>[:arrow_up:Table of contents](#еable-of-contents)
+<br>[:arrow_up:Table of contents](#table-of-contents)
 ****
 #### Remember! 
 You are the first line of defense, so don’t forget to wear masks and gloves to protect yourself, wash hands and stay away from crowded places. Avoid contacts with other people and stay home.
