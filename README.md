@@ -21,8 +21,8 @@ This application keeps you informed and up-to-date about current situation. The 
 ****
 #### Remember! 
 You are the first line of defense, so don’t forget to wear masks and gloves to protect yourself, wash hands and stay away from crowded places. Avoid contacts with other people and stay home.
-<hr>
-<h4>Features:</h4>
+****
+#### Features:
 You may experience poor connection problem. If you experience problems with updating information, please check your connection and restart the application.
 <hr>
 <a name="important"></a>
