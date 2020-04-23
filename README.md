@@ -21,3 +21,5 @@ This application was developed in order to keep society informed and up-to-date 
 
 ![1main_new](https://github.com/DmytroHryniuk/be_aware_apk/blob/master/1main_new.png)
 
+
+![icon_featured_graphic](https://github.com/DmytroHryniuk/be_aware_apk/blob/master/icon_featured_graphic.png)
