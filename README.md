@@ -6,7 +6,7 @@
 #### Table of contents:
 1. [Summary](#Summary)
 
-2. [Remember!](#Remember!)
+2. [Remember](#Remember!)
 
 3. [Features:](#Features:)
 
