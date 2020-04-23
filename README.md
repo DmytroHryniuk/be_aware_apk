@@ -7,7 +7,7 @@
 1. [Summary](#Summary)
 2. [Remember!](#Remember)
 3. [Features](#Features)
-4. [Important note](#Important note)
+4. [Important note](#Important_note)
 5. [Screens](#Screens)
 ****
 #### Summary
