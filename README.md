@@ -1,4 +1,4 @@
-# be aware! >– disease statistic and awareness application.
+# be aware!
 
 ![icon_featured_graphic](https://github.com/DmytroHryniuk/be_aware_apk/blob/master/icon_featured_graphic.png)
 
